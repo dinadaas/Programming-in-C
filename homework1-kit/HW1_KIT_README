@@ -1,0 +1,11 @@
+Automated test suite for ECE/CS 250 homework 1, fall 2017.
+By Tyler Bletsch (Tyler.Bletsch@duke.edu)
+
+REVISION 5
+
+Revision history
+ - Rev 5, 2017-09-07: *Test change* - tied PPDs must be sorted alphabetically (e.g. according to strcmp)
+ - Rev 4, 2017-08-21: Overhauled tester. Added precision to PizzaCalc floats expected values.
+ - Rev 3, 2017-08-08: Updated for fall 2017, introduced PizzaCalc.
+ - Rev 2, 2017-05-17: Variations made for summer 2017.
+ - Rev 1, 2016-05-18: Initial release
